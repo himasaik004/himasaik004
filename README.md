@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hima Sai Kuruba (@himasaik004)
+# 👋 Hi there! I'm Hima Sai Kuruba
 
 Welcome to my GitHub profile! I'm a passionate and driven **Data Engineer** who loves working with large-scale data systems, designing efficient pipelines, and turning raw data into meaningful insights.
 
